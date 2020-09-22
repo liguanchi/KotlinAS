@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Score</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="add1" translatable="false">+1</string>
+    <string name="add2" translatable="false">+2</string>
+    <string name="add3" translatable="false">+3</string>
+    <string name="ling" translatable="false">0</string>
+</resources>
